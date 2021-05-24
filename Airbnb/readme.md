@@ -5,7 +5,7 @@ This is the first project I set myself to duplicate the Airbnb app to learn how 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Origami](#Origami)
+  - [Origami File](#Origami-File)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
 
@@ -18,7 +18,7 @@ I set myself a challenge to duplicate the Airbnb app, making the landing page in
 
 ### Origami File 
 
-[https://becmorrell.github.io/Origami/Airbnb/Airbnb.origami](https://becmorrell.github.io/Origami/Airbnb/Airbnb.origami)
+[https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami](https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami)
 
 
 ## My process
