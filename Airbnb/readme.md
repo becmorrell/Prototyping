@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/77584099/119469922-b871ff00-bd3f-11eb-8af5-278dc63c4431.mov
+
 # Learning Origami: 
 
 This is the first project I set myself to duplicate the Airbnb app to learn how to layout the prototype, use animation and basic X and Y scrolling. 
