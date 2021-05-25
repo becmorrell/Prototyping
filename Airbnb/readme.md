@@ -21,7 +21,7 @@ I set myself a challenge to duplicate the Airbnb app, making the landing page in
 
 [https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami](https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami)
 
-### Demo 
+## Demo 
 
 
 
