@@ -7,9 +7,8 @@ Keeping a log of my completed origami projects along with screenshot and key ski
 
 |    Project        |       Screenshot        |         Key Skills                    |       
 |:-----------------:|:-----------------------:|:-------------------------------------:|
-|  **Airbnb**       |                         |  - Horizontal and Veritcal scrolling  |
-|                   |                         |  - Nested scrolling                   |
-|                   |                         |  - Layout                             |
-|                   |                         |  - Grid Layout                        |
-|                   |                         |  - Creating components                |
+|  **Airbnb**       |                         |  - Horizontal and Veritcal scrolling <br> - Nested scrolling <br> - Layout <br>  - Grid Layout <br>  - Creating components |
+|                   |                         |                              |
+|                   |                         |                         |
+|                   |                         |                 |
 |                   |                         |                                       |
