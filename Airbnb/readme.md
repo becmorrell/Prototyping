@@ -6,7 +6,7 @@ This is the first project I set myself to duplicate the Airbnb app to learn how 
 
 - [Overview](#overview)
   - [Origami File](#Origami-File)
-- [Demo] (#Demo)
+- [Demo](#Demo)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
 
