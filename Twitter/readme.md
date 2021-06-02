@@ -26,7 +26,7 @@ To make the Twitter homepage built using loops. Adding a screen transition that 
 
 ## Demo 
 
-https://user-images.githubusercontent.com/77584099/119469922-b871ff00-bd3f-11eb-8af5-278dc63c4431.mov
+
 
 ## My process
 
