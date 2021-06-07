@@ -22,7 +22,7 @@ To make the Twitter homepage built using loops. Adding a screen transition that 
 
 ### Origami File 
 
-[https://github.com/becmorrell/Origami/blob/main/Twitter/Twitter%20screen%20transition%20and%20loops.origami
+https://github.com/becmorrell/Origami/blob/main/Twitter/Twitter.origami
 
 ## Demo 
 
