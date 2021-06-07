@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/77584099/121080411-4b487a00-c7d3-11eb-
 - I started with designing the layout on paper to understand the containers, bounds and buttons that I would need to add
 - Then built the UI directly in Origami 
 
-- I have used this design to practice adding the following:
+I have used this design to practice adding the following:
     - Created profile components for 'stories' and 'tweets'
     - Built the 'stories' using `loop builder` for profile image and name    
     - Nested horizontal scrolling for stories 
