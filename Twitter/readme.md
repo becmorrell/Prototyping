@@ -27,6 +27,7 @@ To make the Twitter homepage built using loops. Adding a screen transition that 
 ## Demo 
 
 
+https://user-images.githubusercontent.com/77584099/121022141-fc322300-c799-11eb-8d91-dbc966761bc9.mov
 
 
 ## My process
@@ -44,7 +45,6 @@ To make the Twitter homepage built using loops. Adding a screen transition that 
     - Animated the 'social media' icons with scale and used a mask for color on the icon
     - Used `option picker` to animate the tap interaction to display the total number of likes, comments or retweets once tapped
     - Implemented `and` and `not` patches for the screen transition, so that when you tap anywhere other than the social icons on the container it transitions to screen 2.
-
 
 
 
