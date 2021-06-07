@@ -11,7 +11,7 @@ The idea of this project was to continue consolidating the use of components and
   - [Origami File](#Origami-File)
 - [Demo](#Demo)
 - [My process](#my-process)
-  - [What I learned](#what-i-learned)
+  - [Summary](#summary)
 
 
 ## Overview
@@ -26,13 +26,13 @@ To make the Twitter homepage built using loops. Adding a screen transition that 
 
 ## Demo 
 
-
-https://user-images.githubusercontent.com/77584099/121022539-5337f800-c79a-11eb-9b84-1e6925347cf1.mov
+https://user-images.githubusercontent.com/77584099/121080411-4b487a00-c7d3-11eb-9420-580eb12ff22c.mp4
 
 
 ## My process
 
 - I started with designing the layout on paper to understand the containers, bounds and buttons that I would need to add
+- Then built the UI directly in Origami 
 
 - I have used this design to practice adding the following:
     - Created profile components for 'stories' and 'tweets'
@@ -40,19 +40,19 @@ https://user-images.githubusercontent.com/77584099/121022539-5337f800-c79a-11eb-
     - Nested horizontal scrolling for stories 
     - Created a 'tweet container' component 
     - Built the homepage feed using multiple `loop builders` (for each layer in the tweet, including whether the tweet displays an image, or text only
-    - Published port outside the component to be able to display or hide the 'blue tick' on the profile of the tweet
-    - Used `loop option switch` and `loop selector` for the tap interation display the layers of the tweet tapped on
-    - Animated the 'social media' icons with scale and used a mask for color on the icon
-    - Used `option picker` to animate the tap interaction to display the total number of likes, comments or retweets once tapped
+    - Published a port outside the component to be able to display or hide the 'blue tick' on the profile of the tweet 
+    - Implemented a screen transition from the feed page to screen 2 
+    - Used `loop option switch` and `loop selector` to display screen 2 based on the item in the loop being tapped
+    - Animated the 'retweet, like and comment' icons with scale and used a mask for color on the icon
+    - Used `option picker` to display the total number of likes, comments or retweets once tapped
     - Implemented `and` and `not` patches for the screen transition, so that when you tap anywhere other than the social icons on the container it transitions to screen 2.
 
 
 
-### What I learned
+### Summary
 
 Firstly, loops are incredible! Very easy to build with saving alot of time inputting data. However, you then end up with a lot of `loop builders` and the great task of linking them up to `loop selectors` for each piece of information/text/image. I guess this leads me onto a next project on how to handle data!
 
-- I learnt how to use `option picker` and add `sum` to this to animate the tap on the social icons
 
 If I had more time: 
 
