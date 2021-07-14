@@ -1,8 +1,8 @@
-# Pintrest: 
+# Pinterest: 
 
 Project 3: Practicing implementing loops and selecting one to present a screen
 
-I've been doing alot of learning about loops - practicing with shapes, colors and screen transitions. I've now decided to put that into practice by replicating the Pintrest app using interactive loops.
+I've been doing alot of learning about loops - practicing with shapes, colors and screen transitions. I've now decided to put that into practice by replicating the Pinterest app using interactive loops.
 
 
 ## Table of contents
@@ -18,13 +18,13 @@ I've been doing alot of learning about loops - practicing with shapes, colors an
 
 ### The challenge
 
-- To prototype the Pintrest feed using loops. 
+- To prototype the Pinterest feed using loops. 
 - Transition a selected item to full screen 
 
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/blob/main/Pintrest/pintrest.origami
+https://github.com/becmorrell/Origami/blob/main/Pinterest/Pinterest.origami
 
 ## Demo 
 
