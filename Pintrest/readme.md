@@ -22,11 +22,12 @@ To make a duplicate of Pintrest using loops. Then challenging myself to be able 
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/blob/main/Twitter/Twitter.origami
+
 
 ## Demo 
 
-https://user-images.githubusercontent.com/77584099/121080411-4b487a00-c7d3-11eb-9420-580eb12ff22c.mp4
+https://user-images.githubusercontent.com/77584099/125662618-bb0227f0-efab-4004-af19-abe59cda1a29.mp4
+
 
 
 ## My process
