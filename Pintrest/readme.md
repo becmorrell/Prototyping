@@ -47,8 +47,13 @@ I have used this design to practice adding the following:
 - Created a 'ghost' 'full screen' layer instead of resizing the selected image to prevent breaking the grid layout. The 'ghost' layer is second image layer that sits on top of the original grid of images and transitions from the selected image to full screen.
 - Implemented `convert posiiton` patch to convert the position of the selected pin image from being relative to its parent, to the parent of the 'ghost' image. 
 
+<img src="https://user-images.githubusercontent.com/77584099/125690039-37baf8fc-4a65-483b-9318-601fdba8b65e.png" width="600px" >
+
+
 - Added a `switch` and `animation` patch to turn the 'full screen' opacity to 1 when an image is selected. 
 - To return to the feed, I wanted to be able to pull the full screen image down to resize it back to the original feed. To do this, I used  a `scroll` patch along with `greater than` to detect when the image had been pulled down. I connected this to a pulse patch to turn off the switch. 
+
+<img src="https://user-images.githubusercontent.com/77584099/125690058-30e5ecef-3dfb-4b80-8e29-8b13430d9a74.png" width="600px" >
 
 
 
