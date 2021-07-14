@@ -36,17 +36,17 @@ https://user-images.githubusercontent.com/77584099/121080411-4b487a00-c7d3-11eb-
 
 I have used this design to practice adding the following:
 
-    - Created profile components for 'stories' and 'tweets'
-    - Built the 'stories' using `loop builder` for profile image and name    
-    - Nested horizontal scrolling for stories 
-    - Created a 'tweet container' component 
-    - Built the homepage feed using multiple `loop builders` (for each layer in the tweet, including whether the tweet displays an image, or text only
-    - Published a port outside the component to be able to display or hide the 'blue tick' on the profile of the tweet 
-    - Implemented a screen transition from the feed page to screen 2 
-    - Used `loop option switch` and `loop selector` to display screen 2 based on the item in the loop being tapped
-    - Animated the 'retweet, like and comment' icons with scale and used a mask for color on the icon
-    - Used `option picker` to display the total number of likes, comments or retweets once tapped
-    - Implemented `and` and `not` patches for the screen transition, so that when you tap anywhere other than the social icons on the container it transitions to screen 2.
+- Created profile components for 'stories' and 'tweets'
+- Built the 'stories' using `loop builder` for profile image and name    
+- Nested horizontal scrolling for stories 
+- Created a 'tweet container' component 
+- Built the homepage feed using multiple `loop builders` (for each layer in the tweet, including whether the tweet displays an image, or text only
+- Published a port outside the component to be able to display or hide the 'blue tick' on the profile of the tweet 
+- Implemented a screen transition from the feed page to screen 2 
+- Used `loop option switch` and `loop selector` to display screen 2 based on the item in the loop being tapped
+- Animated the 'retweet, like and comment' icons with scale and used a mask for color on the icon
+- Used `option picker` to display the total number of likes, comments or retweets once tapped
+- Implemented `and` and `not` patches for the screen transition, so that when you tap anywhere other than the social icons on the container it transitions to screen 2.
 
 
 
