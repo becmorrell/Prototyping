@@ -29,6 +29,10 @@ https://github.com/becmorrell/Origami/
 
 
 
+https://user-images.githubusercontent.com/77584099/127471337-295d4e17-923f-4fc8-b4b0-37fb6011c0fb.mp4
+
+
+
 
 ## My process
 
@@ -40,12 +44,14 @@ https://github.com/becmorrell/Origami/
 - I was having difficulty replicating this without using the scroll interaction patch, however I wanted to delay when the songs appeared to scroll until the header transition was complete.
 - In order to start the scroll further up the screen, I had to cancel out the y scroll using a `min` patch to calculate the point of when the scroll would start.
 
+<img src="https://user-images.githubusercontent.com/77584099/127472059-985816d0-4746-442d-aaf3-dcaff12be589.png" width="600px"> 
 
 
 - As you scroll the artwork off the page, the navigation bar transitions onto the screen from the top, displaying the playlist name. 
 - The Navigation bar is there all the time to allow for the back button to be displayed, however the text and opacity of the bar changes as you scroll. 
 - To position the navigation bar on top of the scroll bounds, I used a negative top margin on the scroll bounds. Following this, I added a `progress` patch to introduce the margin along with increasing opacity of the navigation bar.
 
+<img src="https://user-images.githubusercontent.com/77584099/127472412-f0c35c30-5510-46a5-b0dc-09444f508c44.png" width="600px"> 
 
 
 - I also added `jump to y position` on tapping the status bar to replicate this iOS pattern.
