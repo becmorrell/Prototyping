@@ -23,10 +23,9 @@ After spending some time working through the origami scrolling patterns, I wante
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/
+https://github.com/becmorrell/Origami/blob/main/Spotify/Spotify.origami
 
 ## Demo 
-
 
 
 https://user-images.githubusercontent.com/77584099/127471337-295d4e17-923f-4fc8-b4b0-37fb6011c0fb.mp4
