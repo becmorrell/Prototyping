@@ -24,6 +24,7 @@ https://github.com/becmorrell/Origami/blob/main/
 
 ## Demo 
 
+https://user-images.githubusercontent.com/77584099/129889074-2aafc5ab-23ea-4f55-a264-161bc0f7ee0a.mp4
 
 
 ## My process
@@ -46,7 +47,6 @@ https://github.com/becmorrell/Origami/blob/main/
 - The second screen displays favourite images selected by the user. To create this, I used a `loop filter` to select the images that had been 'liked' or swiped to the right to display on this screen.
 
 <img src="https://user-images.githubusercontent.com/77584099/129886643-8131c714-ea77-4f53-8795-d80abe6041d1.png" width="600px">
-
 
 
 
