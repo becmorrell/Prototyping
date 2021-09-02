@@ -10,10 +10,7 @@ I played around with this on the canvas and was amazed at how simple this was, s
 - However, when the number was rounded to a whole number eg 25.9 rounded to 26, you would lose the one decimal place (26.0) and would appear as 26 instead.
 - Therefore, I used `mod` to work out the remainder, if this was equal to 0 (i.e rounded to a whole number) then using an `option picker` to add the .0 as a text to ensure its not lost. 
 
- 
-
-
-<img src="" width="600px">
+<img src="https://user-images.githubusercontent.com/77584099/131850435-3ffc33b2-50db-4d5f-b790-40116f505a2c.png" width="600px">
 
 ### Origami File 
 
