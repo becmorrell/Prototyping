@@ -14,7 +14,7 @@ I played around with this on the canvas and was amazed at how simple this was, s
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/blob/main/Components/Decimal%20Place.origami
+https://github.com/becmorrell/Origami/blob/main/Components/Decimal-Place.origami
 
 
 
