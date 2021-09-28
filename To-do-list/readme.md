@@ -26,12 +26,13 @@ Todo list from Frontend Mentor challenge page.
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/blob/main/
+https://github.com/becmorrell/Origami/blob/main/To-do-list/To-do-list.origami
+
+
 
 ## Demo 
 
-
-https://user-images.githubusercontent.com/77584099/127471337-295d4e17-923f-4fc8-b4b0-37fb6011c0fb.mp4
+https://user-images.githubusercontent.com/77584099/135130552-9aa39013-a3a0-4b04-8392-e7418f52a956.mov
 
 
 
