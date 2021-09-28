@@ -2,7 +2,7 @@
 
 Project 6: 
 
-Building quick prototypes directly into Origami from Frontend Mentor javascript challenge page.
+Todo list from Frontend Mentor challenge page.
  
 
 ## Table of contents
@@ -18,6 +18,7 @@ Building quick prototypes directly into Origami from Frontend Mentor javascript 
 
 ### The challenge
 
+- Build directly into Origami
 - To recreate the interactve Todo list 
 - Use text input to allow the user to create their own items to add to the todo list
 - Be able to select an item to mark as complete
@@ -47,12 +48,11 @@ https://user-images.githubusercontent.com/77584099/127471337-295d4e17-923f-4fc8-
 <img src="https://user-images.githubusercontent.com/77584099/135120447-f67c763c-6a7d-4310-af1f-e5878dfec83b.png" width="600px"> 
 
 
-- To create the completed list of items, I used the `loop filter` patch. This is the output of the the `loop insert at end` patch which filters the loop to those marked as compelte.
-- To hide the checkbox once it has been marked as completed, I used a port from `enable` inside the component. 
+- To create the completed list of items, I used the `loop filter` patch. This filters the output of `loop insert at end` patch for those marked as compelte.
 
 
 Finally I wanted to add some fun to the prototype! This means one thing: Confetti.
-- For this, I used the `particle system`, made a loop of colors, used a `counter` patch with a `repeating pulse` to move through the loop to dsiplay different colours as the confetti fires.
+- For this, I used the `particle system`, made a loop of colors, used a `counter` patch with a `repeating pulse` to move through the loop to display different colors as the confetti fires.
 - Once all the "marked as complete" booleans are true in the option switch then the pulse will fire confetti.
 
 <img src="https://user-images.githubusercontent.com/77584099/135120420-ec954e82-f7f5-4f17-bfa4-457de459f06d.png" width="600px"> 
