@@ -1,8 +1,5 @@
 # HIIT Timer
 
-Project 7: 
- 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -12,12 +9,13 @@ Project 7:
 
 ## Overview
 
-I've created my own tailored HIIT timer for the exercises that I regularly complete! Take a look at the medium article I've share the UX community on this: 
+I've created my own tailored HIIT timer for the exercises that I regularly complete! Take a look at the medium article I've shared with the UX community on this: 
+
 
 
 ### Origami File 
 
-https://github.com/becmorrell/Origami/blob/main/To-do-list/To-do-list.origami
+https://github.com/becmorrell/Origami/blob/main/Hiit-Timer/Hiit-timer.origami
 
 
 ## Demo 
