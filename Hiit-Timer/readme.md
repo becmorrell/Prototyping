@@ -11,6 +11,7 @@
 
 I've created my own tailored HIIT timer for the exercises that I regularly complete! Take a look at the medium article I've shared with the UX community on this: 
 
+https://blog.prototypr.io/prototyping-a-hiit-timer-in-origami-studio-87338482600e
 
 
 ### Origami File 
