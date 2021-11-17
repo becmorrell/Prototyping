@@ -18,6 +18,7 @@ I've had great fun learning the video and camera in Origami to build something I
 
 ## Origami File 
 
+https://github.com/becmorrell/Origami/blob/main/Instagram-Stories/Instagram-story.origami
 
 ## Demo
 
