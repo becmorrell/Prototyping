@@ -5,10 +5,10 @@ I've had great fun learning the video and camera in Origami to build something I
 ## Table of contents
 
 - [The challenge](#The-challenge)
-  - [Origami File](#Origami-File)
+- [Origami File](#Origami-File)
 - [Demo](#Demo)
 - [My process](#my-process)
-  - [Summary](#summary)
+- [Challenges](#challenges)
 
 
 ### The challenge
@@ -17,6 +17,7 @@ I've had great fun learning the video and camera in Origami to build something I
 - Display the photo or video taken 
 
 ## Origami File 
+
 
 ## Demo
 
@@ -30,14 +31,20 @@ I have added the following:
 ✅ `Camera patch`<br>
 ✅ `Long press` interaction to record a video <br>
 ✅ `Tap` interaction to capture a photo  <br>
-✅ Link these into image and photo layers to display <br> 
+✅ Link these into image and photo layers to display <br>
+
+<img src="https://user-images.githubusercontent.com/77584099/142230885-3ff30c6d-0e3a-427e-bde4-1431d82e9ec2.png" width="700px">
+
 
 ✅ `Loop Builder` used for creating loop of color components <br>
 ✅ `Loop select` to select different colors of background and text on photo screen <br>
 
+<img src="https://user-images.githubusercontent.com/77584099/142230579-7c325f9d-e27a-4141-b183-8ddb6697ebd3.png" width="700px">
+
 
 ✅ Added `text field` and logic to allow user to tap screen, enter text and end editing by tapping on screen or exiting the photo screen <br>
 
+<img src="https://user-images.githubusercontent.com/77584099/142229637-e1a727d4-5ae4-4b15-bdb3-2bb7d7411242.png" width="700px">
 
 
 
