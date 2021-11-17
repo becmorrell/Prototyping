@@ -27,16 +27,16 @@ I started out with drawing the screens I wanted to display (photo and video), th
 
 I have added the following:
 
-✅ `Camera patch`
-✅ `Long press` interaction to record a video
-✅ `Tap` interaction to capture a photo 
-✅ Link these into image and photo layers to display 
+✅ `Camera patch`<br>
+✅ `Long press` interaction to record a video <br>
+✅ `Tap` interaction to capture a photo  <br>
+✅ Link these into image and photo layers to display <br> 
 
-✅ `Loop Builder` used for creating loop of color components 
-✅ `Loop select` to select different colors of background and text on photo screen
+✅ `Loop Builder` used for creating loop of color components <br>
+✅ `Loop select` to select different colors of background and text on photo screen <br>
 
 
-✅ Added `text field` and logic to allow user to tap screen, enter text and end editing by tapping on screen or exiting the photo screen 
+✅ Added `text field` and logic to allow user to tap screen, enter text and end editing by tapping on screen or exiting the photo screen <br>
 
 
 
