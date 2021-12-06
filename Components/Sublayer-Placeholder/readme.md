@@ -14,5 +14,9 @@ A quick summary:
 - If you horizontal scroll (altering the -X position on the scroll patch) then change to the Y scroll, occasionally the componenet would appear to be off the screen due to the final -X position. 
 - To avoid this, I have had to use `pulse on change` and `delay` patch with `scroll settings` in order to reset X and Y position to 0 when changing the direction.  
 
+<img src="https://user-images.githubusercontent.com/77584099/144883055-aec1e940-ef17-4abd-99f1-09534c0970d9.png" width="700px">
+
 
 ### Origami File 
+
+https://github.com/becmorrell/Origami/blob/main/Components/Sublayer-Placeholder/sublayer-with-scroll-direction.origami
