@@ -21,11 +21,11 @@ This is a project to have fun with loads of animations!
 
 ### Origami File 
 
-[https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami](https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami)
+[https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami]
 
 ## Demo 
 
-https://user-images.githubusercontent.com/77584099/146198788-e5f46b7c-a6c8-42e5-9288-d07cc173b300.mp4
+[https://user-images.githubusercontent.com/77584099/146200474-0fa9cf98-6ca2-4f30-a01a-30b30dee6a96.mp4](https://user-images.githubusercontent.com/77584099/146200474-0fa9cf98-6ca2-4f30-a01a-30b30dee6a96.mp4)
 
 ## My process
 
