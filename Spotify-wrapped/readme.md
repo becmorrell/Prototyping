@@ -37,12 +37,11 @@ https://user-images.githubusercontent.com/77584099/119469922-b871ff00-bd3f-11eb-
 
 <img src="https://user-images.githubusercontent.com/77584099/146184116-af281b80-2103-4e1b-90a1-54cf7571d201.png" width="700px">
 
-    
-
+ 
     - Used a counter to monitor how many items out of the loop have been completed 
     - Used an `option picker` to alternate between 0%, 100% and the live % progress
     
-    <img src="https://user-images.githubusercontent.com/77584099/146184285-24d509df-664e-46aa-8a0e-b097d7325955.png" width="700px">
+<img src="https://user-images.githubusercontent.com/77584099/146184285-24d509df-664e-46aa-8a0e-b097d7325955.png" width="700px">
 
 
     - Used groups instead of screens to display each flow 
