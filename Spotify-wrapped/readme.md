@@ -1,4 +1,4 @@
-# Spotify Year in Review: 
+# Spotify Wrapped: 
 
 This is a project to have fun with loads of animations!
 
@@ -21,7 +21,7 @@ This is a project to have fun with loads of animations!
 
 ### Origami File 
 
-[https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami]
+https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami
 
 ## Demo 
 
