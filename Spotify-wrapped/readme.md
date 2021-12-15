@@ -21,11 +21,11 @@ This is a project to have fun with loads of animations!
 
 ### Origami File 
 
-[https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami](https://github.com/becmorrell/Origami/blob/main/Airbnb/Airbnb.origami)
+[https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami](https://github.com/becmorrell/Origami/blob/main/Spotify-wrapped/spotify-wrapped%20.origami)
 
 ## Demo 
 
-https://user-images.githubusercontent.com/77584099/119469922-b871ff00-bd3f-11eb-8af5-278dc63c4431.mov
+https://user-images.githubusercontent.com/77584099/146198788-e5f46b7c-a6c8-42e5-9288-d07cc173b300.mp4
 
 ## My process
 
@@ -57,4 +57,4 @@ https://user-images.githubusercontent.com/77584099/119469922-b871ff00-bd3f-11eb-
 - Using stroke to animate a mask of an image (giving the effect its being filled in - see group 6)
 - Using the `option picker` to alternate between 0% progress (i.e the progress hasnt started yet), 100% (i.e that progress baris completed) and the live progress
 
-This has been such a fun project to replicate! I couldnt find a simpler way to complete this with loops due to the groups being so different, therefore there is quite alot of repitition withn the prototype
+This has been such a fun project to replicate! I couldnt find a simpler way to complete this with loops due to each group being so different, therefore there is quite alot of repitition withn the prototype.
